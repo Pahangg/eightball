@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://i.ytimg.com/vi/RyGecw9MSRs/maxresdefault.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#outline {
+  background:white;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 5%;
+
+
+}
+
+#theBall {
+  width: 400px;
+  height: 400px;
+  background-color: black;
+  opacity: 100%;
+  color: white;
+  margin: auto;
+  border-radius: 100%;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
